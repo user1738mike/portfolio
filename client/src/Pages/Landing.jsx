@@ -250,11 +250,11 @@ export default function Portfolio() {
                 <div className="w-full h-full bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center">
                   <span className="text-7xl font-bold text-white">MO</span>
                 </div>
-                {/* <img 
+                <img 
                   src="/profile.jpg" 
                   alt="Michael Omole"
                   className="w-full h-full object-cover"
-                /> */}
+                />
               </div>
               {/* Decorative elements */}
               <div className="absolute -inset-4 rounded-full border-2 border-blue-400/30 group-hover:border-blue-400/50 transition-all duration-500 -z-10"></div>
@@ -275,8 +275,8 @@ export default function Portfolio() {
                 </span>
               </h1>
               <p className="mt-6 text-lg sm:text-xl text-gray-300 leading-relaxed max-w-2xl">
-                A passionate Full Stack Developer specializing in modern web
-                technologies to build scalable and performant applications.
+                A Full Stack Developer from Nairobi,Kenya specializing in modern web
+                technologies to build scalable and cool applications.
               </p>
 
               {/* Social Links */}
